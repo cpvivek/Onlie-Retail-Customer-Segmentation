@@ -9,23 +9,23 @@ To cluster the customer base of this particular online retail store using Unsupe
 
 # Data
 
-Column Non-Null Count Dtype
 
-0 InvoiceNo 541909 non-null object
 
-1 StockCode 541909 non-null object
+0 InvoiceNo object
 
-2 Description 540455 non-null object
+1 StockCode object
 
-3 Quantity 541909 non-null int64
+2 Description object
 
-4 InvoiceDate 541909 non-null object
+3 Quantity 541909 int64
 
-5 UnitPrice 541909 non-null float64
+4 InvoiceDate object
 
-6 CustomerID 406829 non-null float64
+5 UnitPrice float64
 
-7 Country 541909 non-null object
+6 CustomerID float64
+
+7 Country object
 
 
 # Approach
