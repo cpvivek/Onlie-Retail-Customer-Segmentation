@@ -11,21 +11,21 @@ To cluster the customer base of this particular online retail store using Unsupe
 
 
 
-0 InvoiceNo object
+1 InvoiceNo object
 
-1 StockCode object
+2 StockCode object
 
-2 Description object
+3 Description object
 
-3 Quantity 541909 int64
+4 Quantity int64
 
-4 InvoiceDate object
+5 InvoiceDate object
 
-5 UnitPrice float64
+6 UnitPrice float64
 
-6 CustomerID float64
+7 CustomerID float64
 
-7 Country object
+8 Country object
 
 
 # Approach
